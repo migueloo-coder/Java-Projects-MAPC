@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/miguelpinzon/Desktop/CalculadoraConExcepciones/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/miguelpinzon/Desktop/CalculadoraConExcepciones/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CalculadoraConExcepciones 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/miguelpinzon/Desktop/CalculadoraConExcepciones/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CalculadoraConExcepciones 1.0-SNAPSHOT API'
